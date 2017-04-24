@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+*.hex
+
+# Build folders
+Makefile
+bin/*/
+*build-*
